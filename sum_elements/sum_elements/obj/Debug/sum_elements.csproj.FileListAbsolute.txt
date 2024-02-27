@@ -1,0 +1,7 @@
+C:\Users\beher\source\repos\sum_elements\sum_elements\bin\Debug\sum_elements.exe.config
+C:\Users\beher\source\repos\sum_elements\sum_elements\bin\Debug\sum_elements.exe
+C:\Users\beher\source\repos\sum_elements\sum_elements\bin\Debug\sum_elements.pdb
+C:\Users\beher\source\repos\sum_elements\sum_elements\obj\Debug\sum_elements.csproj.AssemblyReference.cache
+C:\Users\beher\source\repos\sum_elements\sum_elements\obj\Debug\sum_elements.csproj.CoreCompileInputs.cache
+C:\Users\beher\source\repos\sum_elements\sum_elements\obj\Debug\sum_elements.exe
+C:\Users\beher\source\repos\sum_elements\sum_elements\obj\Debug\sum_elements.pdb
